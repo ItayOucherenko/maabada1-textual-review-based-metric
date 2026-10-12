@@ -1,6 +1,6 @@
 # A Textual Review Based Metric for Hotel Category Ratings
 
-Our project introduces a new scoring metric for hotel categories, based only on textual reviews.
+Project by Antal Lykazky, Asaf Grinshtein and Itay Oucherenko - introduces a new scoring metric for hotel categories, based only on textual reviews.
 
 
 
